@@ -4,11 +4,11 @@ ademas de servir como portafolio personal.
 
 
 esta realizado con:
-Next js 
-React js
-tailwind css
+Next js,
+React js,
+tailwind css,
 
-es proyecto consiste en un layout de la pagina web amazon.com
+el proyecto consiste en un layout de la pagina web amazon.com
 replicando su vista principal.
 
 proximamente estoy trabajando en la funcionalidad del slider principal
