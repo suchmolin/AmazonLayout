@@ -41,7 +41,7 @@ export default function Header() {
         <span className="text-2xl">
           <PiShoppingCart />
         </span>
-        <span className="px-2 py-1 rounded-3xl bg-orange-400">2</span>
+        <span className="px-2.5 py-1 rounded-3xl bg-orange-400">2</span>
       </div>
     </div>
   );

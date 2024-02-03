@@ -2,7 +2,7 @@ import { IoMdArrowDropdown } from "react-icons/io";
 
 export default function NavBar() {
   return (
-    <form className="w-5/12">
+    <form className="w-6/12">
       <div className="flex ">
         <label
           htmlFor="search-dropdown"
