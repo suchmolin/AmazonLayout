@@ -6,7 +6,7 @@ import { PiShoppingCart } from "react-icons/pi";
 
 export default function Header() {
   return (
-    <div className="h-16 flex justify-between items-center pl-2 bg-slate-900 text-white">
+    <div className="h-16 flex justify-between items-center pl-2 bg-[#131921] text-white">
       <a href="#">
         <Image
           src="/logo.png"
